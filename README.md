@@ -10,7 +10,7 @@ This python program takes three directories as inputs:
 
 
 To run the file use following command:
-python image_compare.py --dir1="path of dir1" --dir2="path of dir2" --outputdir="path of output dir"
+python image_compare.py --dir1=path of dir1 --dir2=path of dir2 --outputdir=path of output dir
 
 **Important** 
 1. The restriction is that both the directories must contain equal number of files.
