@@ -19,6 +19,7 @@ This python program takes three directories as inputs:
 Three output files are created - mse.txt, z_norm.txt, and ssim.txt
 The output files will have error values, one per image, written in text file.
 
-Contribution: 1. Shivam Chourey : https://www.linkedin.com/in/shivamchourey/  \
-              2. Ashin Marin Thomas : https://www.linkedin.com/in/ashin-marin-thomas-16a46650/
+Contributors 
+1. Shivam Chourey : https://www.linkedin.com/in/shivamchourey/  \
+2. Ashin Marin Thomas : https://www.linkedin.com/in/ashin-marin-thomas-16a46650/
 
