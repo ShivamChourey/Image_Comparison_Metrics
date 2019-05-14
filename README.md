@@ -6,7 +6,11 @@ The program was created for batch image comparison.
 This python program takes three directories as inputs: 
 1. Dir-1 : contains original gaze-map image
 2. Dir-2 : contains predicted gaze-map images
-3. OuputDir : results should be generated here
+3. OuputDir : text files with result generated here
+
+
+To run the file use following command:
+python image_compare.py --dir1=<path of dir1> --dir2=<path of dir2> --outputdir=<path of output dir>
 
 **Important** 
 1. The restriction is that both the directories must contain equal number of files.
