@@ -14,9 +14,11 @@ Important---
 
 2. Two images can be compared when they are of same size.
    Hence, it also contains code to resize images (currently applied on images from one of the directories) 
-   It can be modified suit as per the specific needs or removed.
-   
+   It can be modified suit as per the specific needs or removed.  
 
 Three output files are created - mse.txt, z_norm.txt, and ssim.txt
 The output files will have error values, one per image, written in text file.
+
+Contribution: Shivam Chourey : https://www.linkedin.com/in/shivamchourey/
+              Ashin Marin Thomas : https://www.linkedin.com/in/ashin-marin-thomas-16a46650/
 
