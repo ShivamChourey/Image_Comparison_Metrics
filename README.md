@@ -19,6 +19,6 @@ Important---
 Three output files are created - mse.txt, z_norm.txt, and ssim.txt
 The output files will have error values, one per image, written in text file.
 
-Contribution: Shivam Chourey : https://www.linkedin.com/in/shivamchourey/
+Contribution: Shivam Chourey : https://www.linkedin.com/in/shivamchourey/  \
               Ashin Marin Thomas : https://www.linkedin.com/in/ashin-marin-thomas-16a46650/
 
